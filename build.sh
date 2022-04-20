@@ -3,9 +3,9 @@
 # Copyright (C) 2020-2021 Adithya R.
 
 SECONDS=0 # builtin bash timer
-ZIPNAME="Steroid-$(date '+%Y%m%d-%H%M').zip"
+ZIPNAME="Biogenesis-$(date '+%Y%m%d-%H%M').zip"
 TC_DIR="$HOME/proton-clang"
-DEFCONFIG="raphael_defconfig"
+DEFCONFIG="lancelot_defconfig"
 
 export PATH="$TC_DIR/bin:$PATH"
 
